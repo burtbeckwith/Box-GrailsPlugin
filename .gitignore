@@ -1,0 +1,6 @@
+/target
+/.settings
+/web-app/WEB-INF
+plugin.xml
+*.log
+*.zip
